@@ -1,0 +1,17 @@
+{
+  "name": "bot-authentication",
+  "services": [
+    {
+      "type": "endpoint",
+      "name": "development",
+      "endpoint": "http://localhost:3978/api/messages",
+      "appId": "c50c385b-062f-419c-a905-0b88c771a413",
+      "MicrosoftAppId": "c50c385b-062f-419c-a905-0b88c771a413",
+      "appPassword": "zcoxlfXOMO35(-|qBKO314$",
+      "MicrosoftAppPassword": "zcoxlfXOMO35(-|qBKO314$",
+      "id": "1"
+    }
+  ],
+  "padlock": "",
+  "version": "2.0"
+}
